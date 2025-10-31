@@ -1,6 +1,7 @@
 # Program #3: Average Numbers
 # Henry Forst
 # 10/31/25
+# Program 3
 # Assume a file containing a series of integers is named numbers.txt and exists on the computer's disk.
 # (please use the provided numbers.txt)
 # Write a program that reads all of the numbers stored in the file and calculates their total.  
